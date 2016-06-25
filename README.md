@@ -10,10 +10,16 @@ USB camera C1
 <img src="img/CAMUSB1.png" width="300"/>
 
 ### KITCW920
+Logitech C920 aluminum upgrade kit for CS lens
+<img src="img/KITCW920.png" width="300"/>
+
+### KITRPI2C
 Raspberry pi aluminum enclosure
+<img src="img/KITRPI2C.png" width="300"/>
 
 ### 14MMCSRING
 Lens adapter ring for. D14 to CS
+<img src="img/14MMCSRING.png" width="300"/>
 
 ### CSLZFA2812
 Manual 2.8-12mm CS zoom lens
@@ -21,7 +27,8 @@ Manual 2.8-12mm CS zoom lens
 
 ### CSLZFAA2812
 Motorized  2.8-12mm CS zoom lens
+<img src="img/CSLZFAA2812.png" width="300"/>
 
 ### CSRING5MM
 CS to C-type lens adapter ring
-<img src="img/14MMCSRING.png" width="300"/>
+
