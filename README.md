@@ -38,3 +38,4 @@ Motorized  2.8-12mm CS zoom lens
 ### CSRING5MM
 CS to C-type lens adapter ring
 
+<img src="img/CSRING5MM.png" width="300px"/>
