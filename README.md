@@ -7,6 +7,7 @@ LED panel 64x32 pixel pitch P3. Interface HUB75
 
 ### CAMUSB1
 USB camera C1
+<img src="img/CAMUSB1.png" width="300"/>
 
 ### KITCW920
 Raspberry pi aluminum enclosure
@@ -16,6 +17,7 @@ Lens adapter ring for. D14 to CS
 
 ### CSLZFA2812
 Manual 2.8-12mm CS zoom lens
+<img src="img/CSLZFA2812.png" width="300"/>
 
 ### CSLZFAA2812
 Motorized  2.8-12mm CS zoom lens
