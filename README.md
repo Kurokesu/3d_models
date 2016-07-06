@@ -25,6 +25,11 @@ Lens adapter ring for. D14 to CS
 
 <img src="img/14MMCSRING.png" width="300px"/>
 
+### CSL155
+Manual 1.55 CS fisheye lens
+
+<img src="img/CSL155.png" width="300px"/>
+
 ### CSLZFA2812
 Manual 2.8-12mm CS zoom lens
 
