@@ -30,6 +30,11 @@ Manual 2.8-12mm CS zoom lens
 
 <img src="img/CSLZFA2812.png" width="300px"/>
 
+### CSLZFAM2812
+Manual 2.8-12mm CS zoom lens (High quality)
+
+<img src="img/CSLZFAM2812.png" width="300px"/>
+
 ### CSLZFAA2812
 Motorized  2.8-12mm CS zoom lens
 
