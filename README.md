@@ -44,3 +44,8 @@ Motorized  2.8-12mm CS zoom lens
 CS to C-type lens adapter ring
 
 <img src="img/CSRING5MM.png" width="300px"/>
+
+### RPI-HUB75-P-3
+RPI to HUB75 Led panel adapter
+
+<img src="img/RPI-HUB75-P-3.png" width="300px"/>
