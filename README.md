@@ -60,3 +60,22 @@ RPI to HUB75 Led panel adapter
 0.7-4.5x C-mount microscope lens
 
 <img src="img/MZL070-450-050.png" width="300px"/>
+
+
+### CRAB_CLAMP
+Crab clamp for magic arm
+
+<img src="img/CRAB_CLAMP.png" width="300px"/>
+
+
+### MAGICARM7
+Articulating arm 7"
+
+<img src="img/MAGICARM7.png" width="300px"/>
+
+
+### MAGICARM11
+Articulating arm 11"
+
+<img src="img/MAGICARM11.png" width="300px"/>
+
