@@ -85,3 +85,7 @@ Articulating arm 11"
 
 <img src="img/CSLZFA0922.png" width="300px"/>
 
+### Brio kit
+Logitech Brio aluminum upgrade kit for CS lens
+
+<img src="img/LP0534r.png" width="300px"/>
