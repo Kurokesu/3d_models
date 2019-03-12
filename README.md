@@ -1,5 +1,10 @@
 This repository is for hosting 3D STEP files.
 
+### RSA1
+Rotary stage with stepper motor
+
+<img src="img/RSA1.png" width="300px"/>
+
 ### LP-P3-64-32-2121
 LED panel 64x32 pixel pitch P3. Interface HUB75
 
