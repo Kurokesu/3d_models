@@ -1,5 +1,10 @@
 This repository is for hosting 3D STEP files.
 
+### C1_MICRO_M12
+C1 MICRO M12 USB camera
+
+<img src="img/C1_MICRO_M12.png" width="300px"/>
+
 ### RSA1
 Rotary stage with stepper motor
 
