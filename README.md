@@ -1,5 +1,10 @@
 This repository is for hosting 3D STEP files.
 
+### TPA2
+TPA2 Touch trigger probe
+
+<img src="img/TPA2.png" width="300px"/>
+
 ### C1_MICRO_M12
 C1 MICRO M12 USB camera
 
