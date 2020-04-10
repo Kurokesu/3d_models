@@ -1,10 +1,14 @@
 This repository is for hosting 3D STEP files.
 
-### C1_PRO_X18
-C1 PRO camera with 18x motorized zoom lens and controller
+### C1_PRO_X18 mk1
+C1 PRO camera with 18x motorized zoom lens and controller mk1
 
-<img src="img/C1_PRO_X18.png" width="300px"/>
+<img src="img/SCF4-L078-C1PRO_mk1.png" width="300px"/>
 
+### C1_PRO_X18 mk2
+C1 PRO camera with 18x motorized zoom lens and controller mk2
+
+<img src="img/SCF4-L078-C1PRO_mk2.png" width="300px"/>
 
 ### TPA2
 TPA2 Touch trigger probe
