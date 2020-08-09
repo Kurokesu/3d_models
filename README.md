@@ -1,6 +1,4 @@
-This repository is for hosting 3D STEP files.
-
-Some 2D drawings listed below.
+This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 
 
 
