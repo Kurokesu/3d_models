@@ -1,5 +1,10 @@
 This repository is for hosting 3D STEP files.
 
+### LSA1
+Linear motorized actuator
+
+<img src="img/LSA1_dimensions.png" width="300px"/>
+
 ### C1_PRO_X18 mk1
 C1 PRO camera with 18x motorized zoom lens and controller mk1
 
