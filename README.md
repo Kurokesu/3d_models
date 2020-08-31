@@ -1,4 +1,6 @@
-This repository is for hosting 3D STEP files.
+This repository is for hosting 3D STEP files. Some 2D drawings listed below.
+
+
 
 ### LSA1
 Linear motorized actuator
