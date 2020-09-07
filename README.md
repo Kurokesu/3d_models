@@ -1,6 +1,10 @@
 This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 
 
+### RSB1
+Motorized rotary actuator
+
+<img src="img/RSB1_dimensions.png" width="600px"/>
 
 ### LSA1
 Linear motorized actuator
