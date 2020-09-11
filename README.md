@@ -9,7 +9,7 @@ This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 ### SCE2-M
 4 axis motion controller module
 
-<img src="img/SCE2-M.png" width="300px"/>
+<img src="img/Sce2-m.png" width="300px"/>
 
 ### RSB1
 Motorized rotary actuator
