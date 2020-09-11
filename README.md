@@ -1,6 +1,11 @@
 This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 
 
+### SCE2-BREAKOUT
+4 axis motion controller
+
+<img src="img/SCE2_BREAKOUT.png" width="300px"/>
+
 ### RSB1
 Motorized rotary actuator
 
