@@ -1,6 +1,11 @@
 This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 
 
+### C1_PRO_X20
+C1 PRO camera with 20x motorized zoom lens and controller
+
+<img src="img/C1_PRO_X20.png" width="300px"/>
+
 ### SCE2-BREAKOUT
 4 axis motion controller evaluation board
 
