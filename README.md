@@ -1,6 +1,11 @@
 This repository is for hosting 3D STEP files. Some 2D drawings listed below.
 
 
+### C1_PRO_X10
+C1 PRO camera with 10x motorized zoom lens and controller
+
+<img src="img/SCF4-L050-C1PRO.png" width="300px"/>
+
 ### C1_PRO_X20
 C1 PRO camera with 20x motorized zoom lens and controller
 
