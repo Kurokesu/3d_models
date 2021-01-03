@@ -3,6 +3,11 @@
 This repository is for hosting Kurokesu product 3D STEP files. Some 2D drawings listed below.
 
 
+### SCE2_dual_L012
+Dual lens controller
+
+<img src="img/SCE2_dual_L012.png" width="300px"/>
+
 
 ### C1_PRO_X3
 C1 PRO camera with 3x motorized zoom lens and controller
