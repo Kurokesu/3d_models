@@ -2,12 +2,12 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('LP0242-usb_cam.STEP',
-    '2015-10-31T19:07:38',
-    ( 'zveris' ),
+FILE_NAME ('',
+    '',
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2015',
+    ( '' ),
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;

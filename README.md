@@ -78,7 +78,7 @@ LED panel 64x32 pixel pitch P3. Interface HUB75
 ### CAMUSB1
 USB camera C1
 
-<img src="img/CAMUSB1.png" width="300px"/>
+<img src="img/C1_PRO.png" width="300px"/>
 
 ### KITCW920
 Logitech C920 aluminum upgrade kit for CS lens
