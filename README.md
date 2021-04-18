@@ -2,6 +2,11 @@
 
 This repository is for hosting Kurokesu product 3D STEP files. Some 2D drawings listed below.
 
+### QR_PLATE_20
+Tripod and Arca-Swiss mount plate (for C2 and C920)
+
+<img src="img/QR_PLATE_20.png" width="300px"/>
+
 
 ### SCE2_dual_L012
 Dual lens controller
