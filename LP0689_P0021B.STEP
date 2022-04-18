@@ -3,11 +3,11 @@ HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
 FILE_NAME ('LP0689_P0021B.STEP',
-    '2022-02-10T07:26:53',
+    '',
     ( '' ),
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2020',
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
