@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('L125-ZFD-10Z55-C.STEP',
+FILE_NAME ('L125-ZFA-10Z55-C.STEP',
     '',
     ( '' ),
     ( '' ),
